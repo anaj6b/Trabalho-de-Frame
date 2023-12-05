@@ -1,0 +1,48 @@
+.home {
+    color: #6495ED;
+    min-height: 60vh;
+}
+
+.produtos {
+    color: #228B22;
+    min-height: 60vh;
+}
+
+.sobre {
+    color: #B8860B;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 80px;
+}
+.obj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.obj p{
+    margin: 10px;
+    
+}
+.lista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+.lista h1{
+    margin: 20px;
+    
+}
+
